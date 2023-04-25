@@ -16,6 +16,7 @@
 		8D661B4729F6C1FA002B8446 /* MatchedGeometryEffectBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D661B4629F6C1FA002B8446 /* MatchedGeometryEffectBootCamp.swift */; };
 		8D661B4929F6C771002B8446 /* CustomShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D661B4829F6C771002B8446 /* CustomShapesBootCamp.swift */; };
 		8D661B4B29F7A580002B8446 /* CustomCurvesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */; };
+		8D8B30C629F7B63D00212ECC /* AnimatebleDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8D661B4629F6C1FA002B8446 /* MatchedGeometryEffectBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootCamp.swift; sourceTree = "<group>"; };
 		8D661B4829F6C771002B8446 /* CustomShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapesBootCamp.swift; sourceTree = "<group>"; };
 		8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesBootCamp.swift; sourceTree = "<group>"; };
+		8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatebleDataBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				8D661B4629F6C1FA002B8446 /* MatchedGeometryEffectBootCamp.swift */,
 				8D661B4829F6C771002B8446 /* CustomShapesBootCamp.swift */,
 				8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */,
+				8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D8B30C629F7B63D00212ECC /* AnimatebleDataBootCamp.swift in Sources */,
 				8D661B4129F6A2DA002B8446 /* ViewModifierBootCamp.swift in Sources */,
 				8D661B4929F6C771002B8446 /* CustomShapesBootCamp.swift in Sources */,
 				8D661B4729F6C1FA002B8446 /* MatchedGeometryEffectBootCamp.swift in Sources */,
