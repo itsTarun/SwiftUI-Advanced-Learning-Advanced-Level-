@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIThinking_BootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ViewBuilderBootCamp()
+            AppTabBarView()
         }
     }
 }
