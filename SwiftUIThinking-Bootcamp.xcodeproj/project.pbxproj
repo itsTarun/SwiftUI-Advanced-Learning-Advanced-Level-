@@ -18,6 +18,7 @@
 		8D661B4B29F7A580002B8446 /* CustomCurvesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */; };
 		8D8B30C629F7B63D00212ECC /* AnimatebleDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */; };
 		8D8B30C829F7E4AA00212ECC /* Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30C729F7E4AA00212ECC /* Generics.swift */; };
+		8D8B30CA29F7F4F000212ECC /* ViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30C929F7F4F000212ECC /* ViewBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurvesBootCamp.swift; sourceTree = "<group>"; };
 		8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatebleDataBootCamp.swift; sourceTree = "<group>"; };
 		8D8B30C729F7E4AA00212ECC /* Generics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generics.swift; sourceTree = "<group>"; };
+		8D8B30C929F7F4F000212ECC /* ViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				8D661B4A29F7A57F002B8446 /* CustomCurvesBootCamp.swift */,
 				8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */,
 				8D8B30C729F7E4AA00212ECC /* Generics.swift */,
+				8D8B30C929F7F4F000212ECC /* ViewBuilder.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				8D661B4329F6A5BC002B8446 /* ButtonStyleBootCamp.swift in Sources */,
 				8D661B4529F6A8F2002B8446 /* AnyTransitionBootCamp.swift in Sources */,
 				8D661B4B29F7A580002B8446 /* CustomCurvesBootCamp.swift in Sources */,
+				8D8B30CA29F7F4F000212ECC /* ViewBuilder.swift in Sources */,
 				8D661B3329F6A29A002B8446 /* SwiftUIThinking_BootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
