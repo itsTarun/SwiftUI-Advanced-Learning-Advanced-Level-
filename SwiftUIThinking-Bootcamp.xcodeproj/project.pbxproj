@@ -35,6 +35,7 @@
 		8D8B30E929F966F500212ECC /* CustomNavBarPreferenceKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30E829F966F500212ECC /* CustomNavBarPreferenceKeys.swift */; };
 		8D8B30EB29F96CF200212ECC /* UIViewRepresentableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30EA29F96CF100212ECC /* UIViewRepresentableBootcamp.swift */; };
 		8D8B30EE29FA9B6300212ECC /* UIViewControllerRepresentableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30ED29FA9B6300212ECC /* UIViewControllerRepresentableBootcamp.swift */; };
+		8D8B30F129FAA03800212ECC /* ProtocolBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8B30F029FAA03800212ECC /* ProtocolBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		8D8B30E829F966F500212ECC /* CustomNavBarPreferenceKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarPreferenceKeys.swift; sourceTree = "<group>"; };
 		8D8B30EA29F96CF100212ECC /* UIViewRepresentableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewRepresentableBootcamp.swift; sourceTree = "<group>"; };
 		8D8B30ED29FA9B6300212ECC /* UIViewControllerRepresentableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerRepresentableBootcamp.swift; sourceTree = "<group>"; };
+		8D8B30F029FAA03800212ECC /* ProtocolBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,7 +120,7 @@
 		8D661B4C29F7A5AB002B8446 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				8D8B30EC29FA9B3C00212ECC /* Representable */,
+				8D8B30EF29FAA02200212ECC /* Protocols */,
 				8D8B30C529F7B63D00212ECC /* AnimatebleDataBootCamp.swift */,
 				8D661B4429F6A8F2002B8446 /* AnyTransitionBootCamp.swift */,
 				8D661B4229F6A5BC002B8446 /* ButtonStyleBootCamp.swift */,
@@ -130,6 +132,7 @@
 				8D661B4029F6A2DA002B8446 /* ViewModifierBootCamp.swift */,
 				8D8B30DD29F94D5F00212ECC /* CustomNavBar */,
 				8D8B30CD29F813DD00212ECC /* PreferenceKeyBootCamp */,
+				8D8B30EC29FA9B3C00212ECC /* Representable */,
 				8D8B30D229F8337A00212ECC /* TabView */,
 			);
 			path = Views;
@@ -185,6 +188,14 @@
 				8D8B30ED29FA9B6300212ECC /* UIViewControllerRepresentableBootcamp.swift */,
 			);
 			path = Representable;
+			sourceTree = "<group>";
+		};
+		8D8B30EF29FAA02200212ECC /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				8D8B30F029FAA03800212ECC /* ProtocolBootcamp.swift */,
+			);
+			path = Protocols;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -269,6 +280,7 @@
 				8D8B30D629F8404E00212ECC /* CustomTabBarView.swift in Sources */,
 				8D661B4329F6A5BC002B8446 /* ButtonStyleBootCamp.swift in Sources */,
 				8D661B4529F6A8F2002B8446 /* AnyTransitionBootCamp.swift in Sources */,
+				8D8B30F129FAA03800212ECC /* ProtocolBootcamp.swift in Sources */,
 				8D8B30CF29F8140000212ECC /* GeometryPreferenceKeyBootCamp.swift in Sources */,
 				8D661B4B29F7A580002B8446 /* CustomCurvesBootCamp.swift in Sources */,
 				8D8B30EE29FA9B6300212ECC /* UIViewControllerRepresentableBootcamp.swift in Sources */,
